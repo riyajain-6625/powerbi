@@ -1,0 +1,16 @@
+OrderID,ProductName,Category,SalesAmount,OrderDate,Region,QuantitySold
+1001,Laptop,Electronics,1200,1/15/2023,North,2
+1002,Headphones,Electronics,150,1/16/2023,South,5
+1003,Desk,Furniture,450,1/17/2023,East,3
+1004,Chair,Furniture,200,1/18/2023,West,4
+1005,T-Shirt,Clothing,25,1/19/2023,North,10
+1006,Jacket,Clothing,80,2/1/2023,South,7
+1007,Smartphone,Electronics,800,2/5/2023,East,3
+1008,Table,Furniture,600,2/10/2023,West,2
+1009,Shirt,Clothing,35,2/15/2023,North,6
+1010,Monitor,Electronics,300,2/20/2023,South,4
+1011,Chair,Furniture,210,2/22/2023,East,3
+1012,Headphones,Electronics,120,3/1/2023,West,2
+1013,Jacket,Clothing,85,3/5/2023,North,5
+1014,Smartphone,Electronics,850,3/10/2023,South,3
+1015,Desk,Furniture,450,3/12/2023,East,2
